@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/714730363193481187/87e58f9ab9f84e08bec297584873f885/artifacts
+end_time: 1749913535238
+entry_point_name: ''
+experiment_id: '714730363193481187'
+lifecycle_stage: active
+run_id: 87e58f9ab9f84e08bec297584873f885
+run_name: auspicious-panda-457
+run_uuid: 87e58f9ab9f84e08bec297584873f885
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749913530857
+status: 3
+tags: []
+user_id: pande

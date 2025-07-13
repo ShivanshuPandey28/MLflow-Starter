@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/714730363193481187/e6ca12444f3043bf9a3ed355d91cdabd/artifacts
+end_time: 1749913706746
+entry_point_name: ''
+experiment_id: '714730363193481187'
+lifecycle_stage: active
+run_id: e6ca12444f3043bf9a3ed355d91cdabd
+run_name: sincere-penguin-916
+run_uuid: e6ca12444f3043bf9a3ed355d91cdabd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749913659715
+status: 3
+tags: []
+user_id: pande

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/714730363193481187/a4880c3753d54346b07875ac15f562b3/artifacts
+end_time: 1749913712835
+entry_point_name: ''
+experiment_id: '714730363193481187'
+lifecycle_stage: active
+run_id: a4880c3753d54346b07875ac15f562b3
+run_name: zealous-newt-399
+run_uuid: a4880c3753d54346b07875ac15f562b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749913708827
+status: 3
+tags: []
+user_id: pande
